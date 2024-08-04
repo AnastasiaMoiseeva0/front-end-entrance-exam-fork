@@ -1,0 +1,12 @@
+.resume {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(124px, 1fr));
+    gap: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    .resume {
+        grid-template-columns: inherit;
+        gap: 10px;
+    }
+}
