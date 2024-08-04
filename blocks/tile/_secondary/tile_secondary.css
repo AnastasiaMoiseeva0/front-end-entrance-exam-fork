@@ -1,3 +1,7 @@
 .tile_secondary {
     background-color: #FFF;
 }
+
+.tile_secondary:hover {
+    background-color: #ebebeb;
+}
