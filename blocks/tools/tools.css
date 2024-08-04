@@ -1,0 +1,9 @@
+.tools {
+    grid-area: 2/4/3/5;
+}
+
+@media screen and (max-width: 600px) {
+    .tools {
+        grid-area: 4/1/4/3;
+    }
+}

@@ -1,0 +1,9 @@
+.tile__textarea {
+    border: none;
+    width: fit-content;
+    white-space: pre-line;
+    max-width: 100%;
+    min-width: 10px;
+    word-break: break-word;
+    transition: height 0.1s ease-in;
+}
