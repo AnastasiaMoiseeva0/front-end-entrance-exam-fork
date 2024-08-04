@@ -2,3 +2,7 @@
     background-color: #000;
     color: #FFF;
 }
+
+.tile_black:hover {
+    background-color: #424242;
+}
